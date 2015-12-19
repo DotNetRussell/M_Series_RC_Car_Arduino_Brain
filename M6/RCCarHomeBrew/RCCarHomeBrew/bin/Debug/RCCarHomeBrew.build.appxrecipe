@@ -1,0 +1,69 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>RUSSELL-MAIN</Machine>
+    <WindowsUser>Anthony</WindowsUser>
+    <TargetPlatformIdentifier>WindowsPhoneApp</TargetPlatformIdentifier>
+    <TargetOsVersion>6.3</TargetOsVersion>
+    <TargetOsDescription>Windows Phone 8.1</TargetOsDescription>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <PackageIdentityName>95c5b786-1f87-4d1b-8a64-9f889ce8c0a3</PackageIdentityName>
+    <IntermediateOutputPath>c:\users\anthony\documents\visual studio 2015\Projects\RCCarHomeBrew\RCCarHomeBrew\obj\Debug\</IntermediateOutputPath>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="c:\users\anthony\documents\visual studio 2015\Projects\RCCarHomeBrew\RCCarHomeBrew\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="c:\users\anthony\documents\visual studio 2015\Projects\RCCarHomeBrew\RCCarHomeBrew\bin\Debug\RCCarHomeBrew.exe">
+      <PackagePath>RCCarHomeBrew.exe</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\anthony\documents\visual studio 2015\Projects\RCCarHomeBrew\RCCarHomeBrew\Assets\Logo.scale-240.png">
+      <PackagePath>Assets\Logo.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\anthony\documents\visual studio 2015\Projects\RCCarHomeBrew\RCCarHomeBrew\Assets\SmallLogo.scale-240.png">
+      <PackagePath>Assets\SmallLogo.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\anthony\documents\visual studio 2015\Projects\RCCarHomeBrew\RCCarHomeBrew\Assets\SplashScreen.scale-240.png">
+      <PackagePath>Assets\SplashScreen.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\anthony\documents\visual studio 2015\Projects\RCCarHomeBrew\RCCarHomeBrew\Assets\Square71x71Logo.scale-240.png">
+      <PackagePath>Assets\Square71x71Logo.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\anthony\documents\visual studio 2015\Projects\RCCarHomeBrew\RCCarHomeBrew\Assets\StoreLogo.scale-240.png">
+      <PackagePath>Assets\StoreLogo.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\anthony\documents\visual studio 2015\Projects\RCCarHomeBrew\RCCarHomeBrew\Assets\WideLogo.scale-240.png">
+      <PackagePath>Assets\WideLogo.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\anthony\documents\visual studio 2015\Projects\RCCarHomeBrew\RCCarHomeBrew\Html\css\phone.css">
+      <PackagePath>Html\css\phone.css</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\anthony\documents\visual studio 2015\Projects\RCCarHomeBrew\RCCarHomeBrew\Html\index.html">
+      <PackagePath>Html\index.html</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\anthony\documents\visual studio 2015\Projects\RCCarHomeBrew\RCCarHomeBrew\bin\Debug\RCCarHomeBrew.xr.xml">
+      <PackagePath>RCCarHomeBrew.xr.xml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\anthony\documents\visual studio 2015\Projects\RCCarHomeBrew\RCCarHomeBrew\bin\Debug\App.xbf">
+      <PackagePath>App.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\anthony\documents\visual studio 2015\Projects\RCCarHomeBrew\RCCarHomeBrew\bin\Debug\MainPage.xbf">
+      <PackagePath>MainPage.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\anthony\documents\visual studio 2015\Projects\RCCarHomeBrew\RCCarHomeBrew\bin\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>
